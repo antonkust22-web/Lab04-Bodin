@@ -1,4 +1,5 @@
-﻿using System;
+// так как у меня старенький мак то вот это начало обязательно
+using System;
 
 namespace Lab04_Bodin
 {
